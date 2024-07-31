@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uk8/RsMOKYQ=",
+  "dgSpecHash": "ct1xtCPy3MpEoXuBXzUSaHeCNcqPBJJmDqSaRJ3VTdMBS6Qn0nuMcqBB5s2uhu2g/nvYiSICJcCnuLM+7+kjLQ==",
   "success": true,
-  "projectFilePath": "D:\\Repos\\myWebApp\\myWebApp.csproj",
+  "projectFilePath": "/home/lgabor/git/MyWebApp/myWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
