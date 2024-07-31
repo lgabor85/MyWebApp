@@ -16,6 +16,7 @@ using System.Reflection;
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91c69cda84b8da2e69274aa652d46b1cfca51bde")]
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d10da752a327244887ff41c285157057f2b34cf6")]
@@ -26,6 +27,9 @@ using System.Reflection;
 =======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+157657f8da60bc5f4896fcfb589b098152b262b3")]
 >>>>>>> 92c9733 (Update Azure DevOps link in Home/Index view)
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92c9733dcc1d671af0a990749141104e9c8cf2b6")]
+>>>>>>> 971a5c1 (Update AssemblyInformationalVersion to 1.0.0+92c9733d)
 [assembly: System.Reflection.AssemblyProductAttribute("myWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("myWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
